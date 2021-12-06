@@ -11,8 +11,8 @@ h2 {
 }
 
 #pizza img {
-    width: 90%;
-    height: 90%;
+    width: 50px;
+    height: 50px;
     background-size: 100%;
     position: absolute;
     top: 0;
